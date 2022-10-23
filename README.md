@@ -1,16 +1,18 @@
-# codeware_task1
+# A CRUD based application
 
-A new Flutter project.
+## Codeware task 01
 
-## Getting Started
+## Home Screen (user list)
+![WhatsApp Image 2022-10-24 at 2 23 53 AM](https://user-images.githubusercontent.com/70930476/197416568-b2a75bb7-8226-4fda-bb1b-091f982eacdd.jpeg)
 
-This project is a starting point for a Flutter application.
+## User add dialog
+![WhatsApp Image 2022-10-24 at 2 23 53 AM (1)](https://user-images.githubusercontent.com/70930476/197416582-c7831212-5eb2-46d5-ab0f-e401b9d1d96e.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+## Update or Delete dialog (tap items to find this)
+![WhatsApp Image 2022-10-24 at 2 23 54 AM](https://user-images.githubusercontent.com/70930476/197416612-67135e73-a5d4-4842-ae51-74b237b4d3f1.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Delete response toast message
+![WhatsApp Image 2022-10-24 at 2 23 52 AM](https://user-images.githubusercontent.com/70930476/197416642-e539b847-fc2c-4608-b9f3-997837a62cf9.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pagination
+![WhatsApp Image 2022-10-24 at 2 29 28 AM](https://user-images.githubusercontent.com/70930476/197416730-128702f0-09c4-4e5b-beaf-0c1a5b565977.jpeg)
